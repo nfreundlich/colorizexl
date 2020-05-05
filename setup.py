@@ -111,7 +111,7 @@ REQUIRED = [
 
 setuptools.setup(
     name="colorizexl",
-    version="0.1.1",
+    version="0.2.0",
     author="M. Linfoot, N. Freundlich",
     author_email="linfoot2@illinois.edu, norbert4@illinois.edu",
     description="Colorize and recolorize large images",
