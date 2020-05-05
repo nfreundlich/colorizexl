@@ -20,7 +20,7 @@ Previous to using the package, you have to setup the following:
 ## Recolorization of color images
 Previous to using the package, you have to setup the following:
 * original color image
-* annotation image (please check details in the paper): white where the color stays the same, different colo where yo want to recolorize
+* annotation image (please check details in the paper): white where the color stays the same, different color where you want to recolorize
 
 ## Command line
 Call the `colorizexl.py` from command line, to colorize or recolorize images.
