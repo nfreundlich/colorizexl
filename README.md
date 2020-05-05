@@ -59,7 +59,7 @@ Its functioning is as follows:
 
 ## notebooks
 Contains the notebooks used for experimenting:
-* *CS445_usage*: example code for colorizing and recolorizing images (example images from the original paper are provided)
+* *CS445_usage*: example code for colorizing and recolorizing images (example images from the original paper are provided); output of the example images can be seen [here](https://github.com/nfreundlich/colorizexl/blob/master/notebooks/CS445_usage.ipynb)
 * *CS445_master*: our inital experiments with colorization
 * *CS445_patch_sort*: experiments with intelligent sorting of patches to be recolorized
 
